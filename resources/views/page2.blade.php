@@ -1,0 +1,1 @@
+<h1>welcome {{$nom}} , ID : {{$id}} </h1>
